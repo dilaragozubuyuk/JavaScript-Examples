@@ -1,4 +1,3 @@
-// Your code here.
 function arrayToList(array) {
     let object = null;
     for (index = array.length - 1; index >= 0; index--) {

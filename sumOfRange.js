@@ -15,7 +15,6 @@ function range(from, to, type = 1) {
     }
 
     function descList() {
-        console.log(from, to);
         for (index = from; index >= to; index--) {
             array.push(index);
         }
